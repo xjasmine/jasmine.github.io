@@ -1,15 +1,15 @@
 # Site settings
 title: Jasmine
-header-img: img/home-bg.jpg
+header-img: 
 email: xjasmine19@gmail.com
 copyright_name: Jasmine
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+url: "https://jasmine.github.io/"
+twitter_username: jasmine
+github_username:  jasmine
+facebook_username: jasmine
+email_username:  xjasmine19@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
